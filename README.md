@@ -6,3 +6,6 @@ Download page for the game on Itch.io (no Mac support only .exe build): https://
 
 The right side pannel within the games game engine gives you instructions on what errors to fix have fun :) 
 
+## Images
+![Puzzle Screen](/Puzzle.png)
+![Credits Screen](/CreditScreen.png)
